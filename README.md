@@ -2,6 +2,10 @@
 
 Small, readable RAG prototype for a local PDF manual. Can be run on CPU.
 
+## Demo
+
+![AutoCAD RAG demo](assets/demo/autocad_rag_demo.gif)
+
 ## First step: add the PDF
 
 1. Download the sample PDF from:
