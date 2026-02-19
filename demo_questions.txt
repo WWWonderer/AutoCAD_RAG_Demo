@@ -1,0 +1,5 @@
+Is clockwise positive or negative in AutoCAD?
+What does the symbol @ mean when entering coordinates?
+How do you draw a rectangle?
+What does the TRIM command do?
+How do you repeat the last command?
